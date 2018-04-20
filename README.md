@@ -1,7 +1,8 @@
-# To view projects
 
-[home](https://hyubert.github.io/supler/index.html)
+[home](https://hyubert.github.io/supler/index.html)  
 [product-page](https://hyubert.github.io/supler/product.html)
+
+---
 
 ### USE:
 
@@ -10,3 +11,9 @@
 - BEM (methodology)
 - Native JS
 - Gulp
+
+---
+
+### BROWSER SUPPORT:
+
+Works on IE10+ and other modern browsers such as Chrome, Firefox and Safari.
