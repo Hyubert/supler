@@ -1,7 +1,7 @@
 
-[home](https://hyubert.github.io/supler/index.html)  
-[product-page](https://hyubert.github.io/supler/product.html)  
-[about](https://hyubert.github.io/supler/about.html)
+[home](https://alexrusyn.github.io/supler/index.html)  
+[product-page](https://alexrusyn.github.io/supler/product.html)  
+[about](https://alexrusyn.github.io/supler/about.html)
 
 ---
 
